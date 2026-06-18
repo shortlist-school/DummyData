@@ -1,0 +1,8 @@
+Schedule — the New Year's revels
+Item	Matter	Sum
+Item 1	Repairs To The Royal Barge	£6,477
+Item 2	The Victualling Of The Fleet	£7,888
+Item 3	The Christmas Revels	£7,777
+Item 4	The French Embassy	£1,909
+Item 5	The Subsidy Roll	£862
+Item 6	The Wool Staple At Calais	£5,347

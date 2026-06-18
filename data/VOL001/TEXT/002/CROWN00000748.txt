@@ -1,0 +1,6 @@
+Account — the New Year's gift roll
+Item	Qty	Cost
+Cartage	22	£2
+Wages	13	£165
+Wages	17	£122
+Submitted to the Office of the Treasurer.

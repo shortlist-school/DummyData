@@ -1,0 +1,10 @@
+Account — the victualling of the fleet
+Item	Qty	Cost
+Timber	22	£570
+Cartage	35	£367
+Timber	13	£5
+Wax	29	£462
+Wine (tun)	22	£207
+Candles	28	£110
+Candles	35	£511
+Submitted to the Office of the Treasurer.

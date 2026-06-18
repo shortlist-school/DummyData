@@ -1,0 +1,11 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Book of Hours	5	£677
+Tapestry	3	£88
+Ruby ring	6	£334
+Gilt basin	3	£551
+Silver salt	3	£761
+Gilt basin	5	£339
+Silver salt	3	£149
+Silver salt	1	£643
+Ruby ring	3	£256

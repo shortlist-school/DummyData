@@ -1,0 +1,11 @@
+Conversation: Privy Chamber (private)
+Participants: Queen Catherine Howard, Thomas Culpeper, Lady Jane Rochford
+
+[1541-08-14 22:00] * This is a private conversation.
+[1541-08-14 22:02] Lady Jane Rochford: All is ready for tonight. The back stair is unwatched.
+[1541-08-14 22:04] Queen Catherine Howard: Is the King gone to hunt?
+[1541-08-14 22:05] Lady Jane Rochford: At first light. He will not return before dusk.
+[1541-08-14 22:09] Thomas Culpeper: I will come when the household sleeps. Say nothing to the other ladies.
+[1541-08-14 22:12] Queen Catherine Howard: Burn these messages after. Promise me.
+[1541-08-14 22:13] Thomas Culpeper: I promise. A token, until tonight.  [attachment: shared image — a token]
+[1541-08-14 22:15] Queen Catherine Howard: Until tonight. Delete this.

@@ -1,0 +1,6 @@
+Account — the wine shipment from Gascony
+Item	Qty	Cost
+Candles	6	£570
+Wax	3	£86
+Wine (tun)	17	£215
+Submitted to the Office of the Treasurer.

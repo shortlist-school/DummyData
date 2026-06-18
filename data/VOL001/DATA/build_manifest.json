@@ -1,0 +1,45 @@
+{
+  "generated": "2026-06-18T08:04:48",
+  "seed": 1536,
+  "period": [
+    "1525-01-01",
+    "1547-02-28"
+  ],
+  "volume": "VOL001",
+  "total_records": 2009,
+  "by_recordtype": {
+    "E-Mail": 1653,
+    "Attachment": 188,
+    "E-Doc / Loose File": 165,
+    "Short Message (RSMF)": 3
+  },
+  "by_custodian": {
+    "King Henry VIII": 647,
+    "Queen Anne Boleyn": 284,
+    "Thomas Cromwell": 477,
+    "Archbishop Thomas Cranmer": 390,
+    "Queen Catherine Howard": 86,
+    "Queen Catherine Parr": 125
+  },
+  "by_extension": {
+    "eml": 1653,
+    "xlsx": 84,
+    "ics": 30,
+    "docx": 129,
+    "png": 40,
+    "pdf": 54,
+    "txt": 15,
+    "rsmf": 3,
+    "wav": 1
+  },
+  "email_families": 1653,
+  "exact_duplicates": 25,
+  "key_documents": 26,
+  "suggested_privileged": 13,
+  "native_bytes": 13241801,
+  "counts_requested": {
+    "routine": 600,
+    "noise": 760,
+    "loose": 150
+  }
+}

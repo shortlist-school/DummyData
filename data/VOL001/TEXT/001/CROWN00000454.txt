@@ -1,0 +1,7 @@
+Account — the Garter ceremony arrangements
+Item	Qty	Cost
+Wax	14	£354
+Cartage	19	£304
+Lead	39	£228
+Wages	28	£73
+Submitted to the Office of the Treasurer.

@@ -1,0 +1,10 @@
+Account — the kitchen accounts for the quarter
+Item	Qty	Cost
+Candles	32	£577
+Cloth of gold	25	£110
+Cartage	36	£502
+Wax	17	£402
+Cartage	31	£173
+Lead	5	£472
+Wages	32	£276
+Submitted to the Office of the Treasurer.

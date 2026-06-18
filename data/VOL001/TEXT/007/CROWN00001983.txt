@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Queen Catherine Parr <catherine.parr@crown.gov.tudor>
+Sent: Sunday, 08 December 1546 05:18 AM
+Subject: Undeliverable: The Subsidy Roll
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the recipient is presently lodged in the Tower and cannot receive post.
+
+   Subject: The Subsidy Roll
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

@@ -1,0 +1,9 @@
+Account — the purveyance of venison
+Item	Qty	Cost
+Wages	24	£181
+Cloth of gold	4	£375
+Candles	25	£261
+Lead	13	£193
+Cloth of gold	9	£247
+Cloth of gold	11	£432
+Submitted to the Office of the Treasurer.

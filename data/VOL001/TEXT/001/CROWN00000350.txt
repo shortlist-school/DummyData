@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: King Henry VIII <henry.rex@crown.gov.tudor>
+Sent: Wednesday, 24 April 1529 06:44 PM
+Subject: Undeliverable: The Progress Itinerary
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the recipient is no longer with the household.
+
+   Subject: The Progress Itinerary
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

@@ -1,0 +1,9 @@
+Schedule — the lead and bells of Tintern Abbey
+Item	Matter	Sum
+Item 1	The Christmas Revels	£312
+Item 2	The Tiltyard Schedule	£5,627
+Item 3	The New Coinage	£4,816
+Item 4	The Wool Staple At Calais	£2,504
+Item 5	Repairs To The Royal Barge	£7,380
+Item 6	The Progress Itinerary	£8,721
+Item 7	The Scottish Border	£1,062

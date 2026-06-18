@@ -1,0 +1,8 @@
+Schedule — the Queen's household expenses
+Item	Matter	Sum
+Item 1	Repairs To The Royal Barge	£921
+Item 2	The Progress Itinerary	£3,217
+Item 3	The Wool Staple At Calais	£2,231
+Item 4	The Scottish Border	£2,295
+Item 5	The New Coinage	£657
+Item 6	The Wool Staple At Calais	£8,146

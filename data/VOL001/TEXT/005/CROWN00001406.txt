@@ -1,0 +1,12 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Astrolabe	6	£591
+Ruby ring	4	£714
+Book of Hours	3	£57
+Velvet gown	6	£877
+Gilt basin	3	£637
+Book of Hours	6	£499
+Ruby ring	5	£201
+Ruby ring	1	£748
+Tapestry	3	£385
+Book of Hours	4	£756

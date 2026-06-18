@@ -1,0 +1,8 @@
+From: Scribe Services <scribe-services@crown.gov.tudor>
+To: Thomas Cromwell <thomas.cromwell@crown.gov.tudor>
+Sent: Friday, 11 December 1536 05:00 AM
+Subject: Password Rotation Required: Change Thy Cipher This Month
+
+In accordance with Crown security policy, all seals and ciphers must be rotated this month. Choose a passphrase of no fewer than twelve runes. Do not reuse thy previous three ciphers, and never share thy seal — not even with Security (see prior notice).
+
+-- This is an automated notice. Do not reply to this raven.

@@ -1,0 +1,11 @@
+Account — the subsidy assessment for Kent
+Item	Qty	Cost
+Lead	3	£375
+Wine (tun)	40	£54
+Candles	10	£292
+Cloth of gold	36	£87
+Candles	30	£121
+Cloth of gold	29	£244
+Lead	19	£457
+Wages	36	£339
+Submitted to the Office of the Treasurer.

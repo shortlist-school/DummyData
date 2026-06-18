@@ -1,0 +1,10 @@
+Account — the masque costumes
+Item	Qty	Cost
+Wine (tun)	34	£592
+Wages	28	£350
+Wax	27	£491
+Cloth of gold	37	£523
+Wages	15	£433
+Wax	9	£557
+Candles	29	£101
+Submitted to the Office of the Treasurer.

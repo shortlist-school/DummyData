@@ -1,0 +1,9 @@
+Account — the wardrobe accounts
+Item	Qty	Cost
+Cartage	9	£368
+Cloth of gold	24	£404
+Wax	34	£526
+Wax	8	£498
+Wax	31	£593
+Cloth of gold	38	£230
+Submitted to the Office of the Treasurer.

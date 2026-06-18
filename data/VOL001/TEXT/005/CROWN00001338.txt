@@ -1,0 +1,12 @@
+Inventory of the Jewel House (rev. 2)
+Item	Count	Valuation
+Astrolabe	3	£827
+Book of Hours	4	£509
+Ruby ring	5	£70
+Ruby ring	4	£850
+Book of Hours	3	£265
+Gilt basin	6	£229
+Silver salt	3	£787
+Silver salt	6	£11
+Tapestry	1	£817
+Astrolabe	2	£450

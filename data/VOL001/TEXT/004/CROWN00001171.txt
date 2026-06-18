@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Royal Household//RoyalPost//EN
+BEGIN:VEVENT
+SUMMARY:Attendance Requested at Tower Green, 9 o'clock
+DTSTART:15380901T100000Z
+LOCATION:Tower Green (attendance of the court is requested)
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,9 @@
+Account — the Christmas revels
+Item	Qty	Cost
+Timber	39	£299
+Lead	2	£328
+Wax	40	£423
+Candles	26	£507
+Wine (tun)	17	£541
+Wages	26	£432
+Submitted to the Office of the Treasurer.

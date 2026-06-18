@@ -1,0 +1,10 @@
+Account — the Garter ceremony arrangements
+Item	Qty	Cost
+Wine (tun)	17	£432
+Wine (tun)	3	£212
+Timber	5	£302
+Cartage	5	£70
+Wages	29	£44
+Candles	6	£64
+Cloth of gold	28	£103
+Submitted to the Office of the Treasurer.

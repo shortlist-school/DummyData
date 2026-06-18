@@ -1,0 +1,9 @@
+Schedule — the lead and bells of Lewes Priory
+Item	Matter	Sum
+Item 1	The Wool Staple At Calais	£4,916
+Item 2	The French Embassy	£541
+Item 3	The French Embassy	£6,243
+Item 4	The Tiltyard Schedule	£4,900
+Item 5	The Progress Itinerary	£5,640
+Item 6	The New Coinage	£515
+Item 7	The Muster Of Able Men	£5,494

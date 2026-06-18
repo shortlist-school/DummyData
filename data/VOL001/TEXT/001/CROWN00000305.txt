@@ -1,0 +1,7 @@
+Account — the works at the Palace of Whitehall
+Item	Qty	Cost
+Wax	25	£300
+Wax	9	£313
+Wages	11	£55
+Timber	38	£465
+Submitted to the Office of the Treasurer.

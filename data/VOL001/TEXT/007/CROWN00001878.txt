@@ -1,0 +1,9 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Tapestry	3	£265
+Silver salt	6	£270
+Silver salt	5	£461
+Ruby ring	5	£71
+Book of Hours	1	£678
+Velvet gown	4	£377
+Gilt basin	4	£879

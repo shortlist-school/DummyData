@@ -1,0 +1,8 @@
+Account — the wine shipment from Gascony
+Item	Qty	Cost
+Wages	21	£297
+Lead	20	£433
+Lead	26	£319
+Cloth of gold	32	£366
+Candles	35	£408
+Submitted to the Office of the Treasurer.

@@ -1,0 +1,6 @@
+Schedule — the plate and ornaments of Furness Abbey
+Item	Matter	Sum
+Item 1	The New Coinage	£3,327
+Item 2	The Victualling Of The Fleet	£2,963
+Item 3	The Progress Itinerary	£5,887
+Item 4	The Muster Of Able Men	£7,526

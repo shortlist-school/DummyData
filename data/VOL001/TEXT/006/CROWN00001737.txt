@@ -1,0 +1,8 @@
+Plan for the Education of the King's Children
+Child	Subject	Tutor	Hours/Week
+Prince Edward	Latin & Greek	Dr Cheke	12
+Prince Edward	Divinity	Dr Cox	6
+Lady Elizabeth	Languages	Mr Grindal	10
+Lady Elizabeth	Music	Mr Bird	4
+Lady Mary	Classics	Self-directed	8
+For Their Majesties' approval.

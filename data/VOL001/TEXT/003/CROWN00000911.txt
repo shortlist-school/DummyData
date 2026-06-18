@@ -1,0 +1,10 @@
+Treasury Ledger — Christmas 1535
+Head of Charge	Sum	Status
+Alms	£1,678	Part-paid
+Diets	£449	Part-paid
+Diets	£250	Owing
+Wages	£1,749	Paid
+Works	£1,590	Owing
+Works	£1,451	Owing
+Wine	£310	Owing
+Working ledger. Not yet audited.

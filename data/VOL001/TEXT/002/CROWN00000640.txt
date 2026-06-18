@@ -1,0 +1,6 @@
+Account — the works at Richmond Palace
+Item	Qty	Cost
+Candles	39	£473
+Wages	8	£93
+Wax	20	£463
+Submitted to the Office of the Treasurer.

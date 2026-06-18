@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Queen Anne Boleyn <anne.boleyn@crown.gov.tudor>
+Sent: Tuesday, 09 February 1532 07:22 PM
+Subject: Undeliverable: The Christmas Revels
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the address could not be found in the court directory.
+
+   Subject: The Christmas Revels
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Queen Anne Boleyn <anne.boleyn@crown.gov.tudor>
+Sent: Friday, 09 July 1526 12:18 PM
+Subject: Undeliverable: The Ordnance Accounts
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the mailbox is full and burning is in progress.
+
+   Subject: The Ordnance Accounts
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

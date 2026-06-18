@@ -1,0 +1,13 @@
+Treasury Ledger — Christmas 1537
+Head of Charge	Sum	Status
+Wardrobe	£1,761	Paid
+Wardrobe	£1,784	Part-paid
+Works	£421	Part-paid
+Wardrobe	£243	Part-paid
+Wardrobe	£1,423	Owing
+Alms	£47	Paid
+Wine	£80	Paid
+Diets	£1,069	Owing
+Wardrobe	£468	Paid
+Works	£1,685	Part-paid
+Working ledger. Not yet audited.

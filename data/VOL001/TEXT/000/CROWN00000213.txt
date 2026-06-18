@@ -1,0 +1,10 @@
+Account — the ordnance survey
+Item	Qty	Cost
+Wine (tun)	32	£228
+Wages	1	£233
+Candles	39	£468
+Wages	10	£364
+Timber	23	£50
+Wax	2	£595
+Cartage	31	£20
+Submitted to the Office of the Treasurer.

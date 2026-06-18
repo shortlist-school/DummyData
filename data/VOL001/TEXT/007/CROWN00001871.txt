@@ -1,0 +1,11 @@
+Account — the royal stables accounts
+Item	Qty	Cost
+Cloth of gold	2	£500
+Lead	3	£441
+Wages	15	£244
+Cloth of gold	5	£257
+Timber	12	£11
+Wax	2	£525
+Cloth of gold	40	£158
+Wine (tun)	33	£366
+Submitted to the Office of the Treasurer.

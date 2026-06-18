@@ -1,0 +1,9 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Silver salt	4	£849
+Gilt basin	3	£878
+Velvet gown	6	£167
+Astrolabe	3	£7
+Astrolabe	2	£185
+Silver salt	6	£837
+Ruby ring	2	£113

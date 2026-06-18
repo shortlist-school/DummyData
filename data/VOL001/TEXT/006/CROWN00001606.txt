@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Archbishop Thomas Cranmer <thomas.cranmer@canterbury.church.tudor>
+Sent: Sunday, 12 July 1542 06:44 AM
+Subject: Undeliverable: The French Embassy
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the recipient is presently lodged in the Tower and cannot receive post.
+
+   Subject: The French Embassy
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

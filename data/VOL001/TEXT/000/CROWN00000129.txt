@@ -1,0 +1,13 @@
+Treasury Ledger — Lady Day 1526
+Head of Charge	Sum	Status
+Wages	£1,204	Owing
+Alms	£1,536	Paid
+Stable	£1,661	Paid
+Wardrobe	£1,302	Part-paid
+Wardrobe	£1,783	Owing
+Diets	£557	Paid
+Diets	£203	Paid
+Spices	£858	Part-paid
+Spices	£386	Paid
+Wages	£737	Owing
+Working ledger. Not yet audited.

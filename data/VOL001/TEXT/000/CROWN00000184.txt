@@ -1,0 +1,10 @@
+Treasury Ledger — Midsummer 1527
+Head of Charge	Sum	Status
+Works	£883	Part-paid
+Alms	£1,285	Owing
+Diets	£277	Owing
+Diets	£1,073	Part-paid
+Works	£1,373	Paid
+Works	£1,229	Part-paid
+Wine	£862	Owing
+Working ledger. Not yet audited.

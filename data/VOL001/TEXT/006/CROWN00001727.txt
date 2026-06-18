@@ -1,0 +1,8 @@
+Survey of Nonsuch Palace
+A survey of the fabric and furnishings of Nonsuch Palace.
+The roof of the great hall wants attention before winter. The kitchens are sound. The moat requires dredging.
+Estimated cost of necessary works appended.
+Works	Estimate (£)
+Roof	120
+Drainage	60
+Glazing	45

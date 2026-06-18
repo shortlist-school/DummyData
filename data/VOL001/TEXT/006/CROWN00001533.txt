@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: King Henry VIII <henry.rex@crown.gov.tudor>
+Sent: Friday, 03 October 1541 12:07 PM
+Subject: Undeliverable: The Victualling Of The Fleet
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the recipient is no longer with the household.
+
+   Subject: The Victualling Of The Fleet
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

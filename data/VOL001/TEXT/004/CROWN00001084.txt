@@ -1,0 +1,9 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Book of Hours	4	£97
+Gold cup	1	£702
+Gilt basin	3	£568
+Astrolabe	6	£348
+Velvet gown	5	£889
+Gilt basin	2	£34
+Tapestry	5	£707

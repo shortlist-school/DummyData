@@ -1,0 +1,5 @@
+Schedule — the secretary's appointment
+Item	Matter	Sum
+Item 1	The Wool Staple At Calais	£3,533
+Item 2	The Muster Of Able Men	£2,842
+Item 3	The Scottish Border	£6,037

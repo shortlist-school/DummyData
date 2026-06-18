@@ -1,0 +1,17 @@
+﻿CONVERSATIONID,CONVERSATIONNAME,CUSTODIAN,MESSAGEID,TIMESTAMP,SENDER,SENDEREMAIL,BODY,HASATTACHMENT,RSMF_NATIVE
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-002,1541-08-14T22:02:00Z,Lady Jane Rochford,jane.rochford@crown.gov.tudor,All is ready for tonight. The back stair is unwatched.,N,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-003,1541-08-14T22:04:00Z,Queen Catherine Howard,catherine.howard@crown.gov.tudor,Is the King gone to hunt?,N,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-004,1541-08-14T22:05:00Z,Lady Jane Rochford,jane.rochford@crown.gov.tudor,At first light. He will not return before dusk.,N,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-005,1541-08-14T22:09:00Z,Thomas Culpeper,thomas.culpeper@crown.gov.tudor,I will come when the household sleeps. Say nothing to the other ladies.,N,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-006,1541-08-14T22:12:00Z,Queen Catherine Howard,catherine.howard@crown.gov.tudor,Burn these messages after. Promise me.,N,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-007,1541-08-14T22:13:00Z,Thomas Culpeper,thomas.culpeper@crown.gov.tudor,"I promise. A token, until tonight.",Y,CHT-0001.rsmf
+CHT-0001,Privy Chamber (private),Queen Catherine Howard,CHT-0001-008,1541-08-14T22:15:00Z,Queen Catherine Howard,catherine.howard@crown.gov.tudor,Until tonight. Delete this.,N,CHT-0001.rsmf
+CHT-0002,Privy Council — working group,Thomas Cromwell,CHT-0002-001,1535-07-03T09:00:00Z,Thomas Cromwell,thomas.cromwell@crown.gov.tudor,"Gentlemen, the valuations are in. Glastonbury is a goldmine.",N,CHT-0002.rsmf
+CHT-0002,Privy Council — working group,Thomas Cromwell,CHT-0002-002,1535-07-03T09:01:00Z,Sir Richard Rich,richard.rich@crown.gov.tudor,Literally. The plate alone runs to thousands of ounces.,N,CHT-0002.rsmf
+CHT-0002,Privy Council — working group,Thomas Cromwell,CHT-0002-003,1535-07-03T09:03:00Z,Archbishop Thomas Cranmer,thomas.cranmer@canterbury.church.tudor,Let us proceed carefully. The North is restless about the smaller houses.,N,CHT-0002.rsmf
+CHT-0002,Privy Council — working group,Thomas Cromwell,CHT-0002-004,1535-07-03T09:05:00Z,King Henry VIII,henry.rex@crown.gov.tudor,Proceed. And let us not lose our heads over the paperwork.,N,CHT-0002.rsmf
+CHT-0002,Privy Council — working group,Thomas Cromwell,CHT-0002-005,1535-07-03T09:06:00Z,Thomas Cromwell,thomas.cromwell@crown.gov.tudor,"Noted, Your Majesty. I will send the schedule by this afternoon.",N,CHT-0002.rsmf
+CHT-0003,Texts with Suffolk,King Henry VIII,CHT-0003-001,1533-06-12T11:00:00Z,"Charles Brandon, Duke of Suffolk",charles.brandon@crown.gov.tudor,Tiltyard at noon? Bring the new Italian armour.,N,CHT-0003.rsmf
+CHT-0003,Texts with Suffolk,King Henry VIII,CHT-0003-002,1533-06-12T11:02:00Z,King Henry VIII,henry.rex@crown.gov.tudor,I will be there. Loser buys the wine.,N,CHT-0003.rsmf
+CHT-0003,Texts with Suffolk,King Henry VIII,CHT-0003-003,1533-06-12T11:03:00Z,"Charles Brandon, Duke of Suffolk",charles.brandon@crown.gov.tudor,You always say that and never lose.,N,CHT-0003.rsmf
+CHT-0003,Texts with Suffolk,King Henry VIII,CHT-0003-004,1533-06-12T11:04:00Z,King Henry VIII,henry.rex@crown.gov.tudor,"King's privilege, Charles.",N,CHT-0003.rsmf

@@ -1,0 +1,13 @@
+Treasury Ledger — Michaelmas 1540
+Head of Charge	Sum	Status
+Diets	£340	Paid
+Diets	£1,354	Owing
+Diets	£1,536	Paid
+Works	£894	Owing
+Spices	£1,032	Paid
+Works	£1,506	Owing
+Wages	£95	Part-paid
+Diets	£1,123	Paid
+Alms	£723	Part-paid
+Diets	£254	Owing
+Working ledger. Not yet audited.

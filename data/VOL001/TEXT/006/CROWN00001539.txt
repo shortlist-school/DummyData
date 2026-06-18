@@ -1,0 +1,8 @@
+Account — the kitchen accounts for the quarter
+Item	Qty	Cost
+Wax	25	£318
+Wax	20	£543
+Cloth of gold	22	£103
+Wine (tun)	16	£84
+Timber	16	£409
+Submitted to the Office of the Treasurer.

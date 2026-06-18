@@ -1,0 +1,6 @@
+Account — the New Year's gift roll
+Item	Qty	Cost
+Wax	18	£88
+Cloth of gold	38	£403
+Cloth of gold	14	£470
+Submitted to the Office of the Treasurer.

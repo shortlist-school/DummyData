@@ -1,0 +1,12 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Velvet gown	6	£535
+Book of Hours	5	£870
+Gold cup	6	£464
+Tapestry	5	£737
+Ruby ring	5	£812
+Tapestry	3	£718
+Astrolabe	1	£756
+Tapestry	3	£383
+Velvet gown	1	£550
+Book of Hours	5	£290

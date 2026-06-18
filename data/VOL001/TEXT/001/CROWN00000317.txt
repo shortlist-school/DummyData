@@ -1,0 +1,9 @@
+Account — the purveyance of venison
+Item	Qty	Cost
+Timber	19	£163
+Timber	7	£63
+Timber	29	£466
+Wax	6	£360
+Wages	13	£211
+Candles	19	£472
+Submitted to the Office of the Treasurer.

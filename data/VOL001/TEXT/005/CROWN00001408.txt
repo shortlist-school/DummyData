@@ -1,0 +1,6 @@
+Schedule — the Queen's household accounts
+Item	Matter	Sum
+Item 1	The Ordnance Accounts	£5,312
+Item 2	The Wool Staple At Calais	£2,147
+Item 3	The Tiltyard Schedule	£1,318
+Item 4	The Subsidy Roll	£4,916

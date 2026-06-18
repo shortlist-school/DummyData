@@ -1,0 +1,13 @@
+Treasury Ledger — Midsummer 1533
+Head of Charge	Sum	Status
+Works	£473	Paid
+Wages	£404	Paid
+Wardrobe	£609	Part-paid
+Wages	£860	Owing
+Diets	£99	Owing
+Works	£938	Part-paid
+Wine	£800	Paid
+Spices	£11	Part-paid
+Wine	£645	Part-paid
+Alms	£1,107	Owing
+Working ledger. Not yet audited.

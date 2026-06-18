@@ -1,0 +1,11 @@
+Account — the ordnance survey
+Item	Qty	Cost
+Wine (tun)	6	£127
+Candles	24	£335
+Lead	24	£394
+Cloth of gold	24	£206
+Wine (tun)	27	£114
+Cartage	9	£103
+Cartage	22	£403
+Lead	13	£13
+Submitted to the Office of the Treasurer.

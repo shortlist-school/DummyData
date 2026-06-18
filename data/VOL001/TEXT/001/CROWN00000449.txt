@@ -1,0 +1,8 @@
+Account — the embassy to France
+Item	Qty	Cost
+Lead	14	£114
+Wax	11	£592
+Wax	32	£240
+Wax	29	£598
+Timber	4	£414
+Submitted to the Office of the Treasurer.

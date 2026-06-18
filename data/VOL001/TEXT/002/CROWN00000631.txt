@@ -1,0 +1,8 @@
+From: Scribe Services <scribe-services@crown.gov.tudor>
+To: King Henry VIII <henry.rex@crown.gov.tudor>
+Sent: Sunday, 10 July 1532 10:31 PM
+Subject: Password Rotation Required: Change Thy Cipher This Month
+
+In accordance with Crown security policy, all seals and ciphers must be rotated this month. Choose a passphrase of no fewer than twelve runes. Do not reuse thy previous three ciphers, and never share thy seal — not even with Security (see prior notice).
+
+-- This is an automated notice. Do not reply to this raven.

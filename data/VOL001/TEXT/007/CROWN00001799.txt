@@ -1,0 +1,7 @@
+Account — the tiltyard schedule
+Item	Qty	Cost
+Cloth of gold	33	£260
+Cloth of gold	34	£317
+Lead	19	£309
+Lead	22	£343
+Submitted to the Office of the Treasurer.

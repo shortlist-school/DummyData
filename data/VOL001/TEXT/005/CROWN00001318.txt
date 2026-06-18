@@ -1,0 +1,9 @@
+Schedule — the Court of Augmentations accounts
+Item	Matter	Sum
+Item 1	The French Embassy	£1,492
+Item 2	The French Embassy	£722
+Item 3	The Scottish Border	£5,290
+Item 4	The Wool Staple At Calais	£4,450
+Item 5	The Wool Staple At Calais	£1,247
+Item 6	The Muster Of Able Men	£6,971
+Item 7	The Scottish Border	£4,520

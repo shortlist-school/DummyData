@@ -1,0 +1,8 @@
+Account — the subsidy assessment for Sussex
+Item	Qty	Cost
+Lead	34	£139
+Timber	1	£293
+Candles	23	£373
+Wages	24	£307
+Candles	31	£408
+Submitted to the Office of the Treasurer.

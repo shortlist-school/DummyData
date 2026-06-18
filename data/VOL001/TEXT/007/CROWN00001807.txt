@@ -1,0 +1,11 @@
+Account — the Garter ceremony arrangements
+Item	Qty	Cost
+Candles	10	£491
+Wages	19	£189
+Cloth of gold	27	£39
+Lead	4	£156
+Wine (tun)	5	£181
+Candles	17	£494
+Lead	20	£499
+Cloth of gold	2	£471
+Submitted to the Office of the Treasurer.

@@ -1,0 +1,11 @@
+Account — the repair of the great clock
+Item	Qty	Cost
+Cartage	37	£77
+Wine (tun)	33	£236
+Cloth of gold	40	£147
+Cloth of gold	25	£248
+Timber	39	£567
+Cartage	13	£536
+Wages	11	£398
+Wax	13	£541
+Submitted to the Office of the Treasurer.

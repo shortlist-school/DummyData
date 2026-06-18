@@ -1,0 +1,14 @@
+Inventory of the Jewel House
+Item	Count	Valuation
+Gold cup	5	£692
+Gold cup	5	£182
+Tapestry	5	£248
+Tapestry	1	£799
+Silver salt	1	£68
+Ruby ring	3	£659
+Silver salt	6	£720
+Tapestry	4	£321
+Ruby ring	4	£870
+Velvet gown	2	£883
+Gilt basin	1	£496
+Book of Hours	6	£625

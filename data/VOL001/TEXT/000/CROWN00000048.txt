@@ -1,0 +1,13 @@
+Treasury Ledger — Christmas 1525
+Head of Charge	Sum	Status
+Works	£1,744	Paid
+Wages	£975	Part-paid
+Diets	£1,471	Owing
+Spices	£896	Paid
+Stable	£500	Paid
+Wine	£1,190	Part-paid
+Wine	£828	Owing
+Stable	£733	Owing
+Works	£344	Owing
+Wine	£1,170	Owing
+Working ledger. Not yet audited.

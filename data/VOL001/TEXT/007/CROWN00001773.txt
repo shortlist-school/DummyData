@@ -1,0 +1,7 @@
+Account — the victualling of the fleet
+Item	Qty	Cost
+Timber	12	£509
+Wax	38	£408
+Lead	38	£121
+Wine (tun)	29	£125
+Submitted to the Office of the Treasurer.

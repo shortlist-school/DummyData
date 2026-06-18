@@ -1,0 +1,11 @@
+Treasury Ledger — Michaelmas 1527
+Head of Charge	Sum	Status
+Alms	£1,787	Part-paid
+Wages	£693	Part-paid
+Works	£198	Paid
+Wine	£821	Owing
+Diets	£1,646	Paid
+Spices	£934	Owing
+Wardrobe	£662	Part-paid
+Wardrobe	£1,619	Owing
+Working ledger. Not yet audited.

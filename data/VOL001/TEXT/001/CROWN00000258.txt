@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: King Henry VIII <henry.rex@crown.gov.tudor>
+Sent: Thursday, 19 January 1528 07:00 PM
+Subject: Undeliverable: The Ordnance Accounts
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the recipient is presently lodged in the Tower and cannot receive post.
+
+   Subject: The Ordnance Accounts
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

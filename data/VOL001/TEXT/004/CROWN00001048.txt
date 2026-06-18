@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Archbishop Thomas Cranmer <thomas.cranmer@canterbury.church.tudor>
+Sent: Friday, 04 December 1536 12:22 PM
+Subject: Undeliverable: The Harvest Levy
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: the mailbox is full and burning is in progress.
+
+   Subject: The Harvest Levy
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

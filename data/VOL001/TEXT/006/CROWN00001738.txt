@@ -1,0 +1,13 @@
+From: Mail Delivery Subsystem <postmaster@crown.gov.tudor>
+To: Archbishop Thomas Cranmer <thomas.cranmer@canterbury.church.tudor>
+Sent: Wednesday, 16 February 1544 06:59 PM
+Subject: Undeliverable: The Christmas Revels
+
+This is the Mail Delivery Subsystem.
+
+Your message could not be delivered to one or more recipients. Reason: delivery was refused by the recipient's clerk.
+
+   Subject: The Christmas Revels
+   Status: 5.1.1 (permanent failure)
+
+No further action is required on thy part. The original despatch is appended below.

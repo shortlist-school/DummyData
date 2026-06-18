@@ -1,0 +1,13 @@
+Treasury Ledger — Michaelmas 1541
+Head of Charge	Sum	Status
+Stable	£1,360	Paid
+Spices	£108	Paid
+Wages	£410	Owing
+Wine	£808	Paid
+Alms	£1,452	Paid
+Wine	£801	Part-paid
+Wine	£110	Part-paid
+Wages	£472	Owing
+Alms	£13	Paid
+Wages	£614	Owing
+Working ledger. Not yet audited.

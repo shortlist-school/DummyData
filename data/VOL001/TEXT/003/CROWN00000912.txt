@@ -1,0 +1,10 @@
+Treasury Ledger — Christmas 1535 (rev. 2)
+Head of Charge	Sum	Status
+Wine	£1,641	Paid
+Spices	£1,276	Paid
+Diets	£317	Paid
+Works	£110	Owing
+Wine	£160	Paid
+Wine	£1,264	Paid
+Alms	£80	Paid
+Working ledger. Not yet audited.

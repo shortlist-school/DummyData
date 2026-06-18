@@ -1,0 +1,8 @@
+Account — the New Year's gift roll
+Item	Qty	Cost
+Cartage	30	£566
+Candles	18	£118
+Lead	8	£412
+Wax	5	£443
+Cloth of gold	20	£534
+Submitted to the Office of the Treasurer.

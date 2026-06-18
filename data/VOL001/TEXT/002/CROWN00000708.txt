@@ -1,0 +1,7 @@
+Conversation: Texts with Suffolk
+Participants: King Henry VIII, Charles Brandon, Duke of Suffolk
+
+[1533-06-12 11:00] Charles Brandon, Duke of Suffolk: Tiltyard at noon? Bring the new Italian armour.
+[1533-06-12 11:02] King Henry VIII: I will be there. Loser buys the wine.
+[1533-06-12 11:03] Charles Brandon, Duke of Suffolk: You always say that and never lose.
+[1533-06-12 11:04] King Henry VIII: King's privilege, Charles.
