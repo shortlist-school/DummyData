@@ -4,7 +4,7 @@ A packaged, downloadable copy of the Tudor eDiscovery dataset.
 
 | File | Contents | Size | MD5 |
 |---|---|---|---|
-| `tudor-ediscovery-dataset-v1.0.zip` | `README.md`, `docs/`, and the full `data/VOL001/` production volume | ~11.7 MB | `4782631c92d6221f542045b0943b324b` |
+| `tudor-ediscovery-dataset-v1.0.zip` | `README.md`, `docs/`, and the full `data/VOL001/` production volume | ~11.7 MB | `b39fab17403af90d62215ba8a8ec1747` |
 
 The archive expands to a single folder, `tudor-ediscovery-dataset/`, containing:
 
@@ -23,7 +23,7 @@ tudor-ediscovery-dataset/
 
 ```bash
 md5sum tudor-ediscovery-dataset-v1.0.zip
-# expected: 4782631c92d6221f542045b0943b324b
+# expected: b39fab17403af90d62215ba8a8ec1747
 unzip -t tudor-ediscovery-dataset-v1.0.zip   # integrity test
 ```
 

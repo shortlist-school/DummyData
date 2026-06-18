@@ -11,13 +11,13 @@ from __future__ import annotations
 
 import argparse
 import csv
-import datetime as dt
 import json
 import os
 import shutil
 import sys
 from collections import Counter
 
+from . import __version__
 from . import assemble as assembler
 from . import chat, config, loadfiles, materialise, media, narrative, noise, routine
 from . import loose as loose_mod
@@ -130,7 +130,7 @@ def main() -> None:
     ext_mix = Counter(r.fileextension for r in records)
 
     manifest = {
-        "generated": dt.datetime.now().isoformat(timespec="seconds"),
+        "generator_version": __version__,
         "seed": config.SEED,
         "period": [str(config.PERIOD_START), str(config.PERIOD_END)],
         "volume": config.VOLUME,
